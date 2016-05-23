@@ -1,6 +1,6 @@
 {
-  "name": "gulptest",
-  "version": "0.0.0",
+  "name": "gulp-jsdoc-json",
+  "version": "1.0.0",
   "dependencies": {
     "jsdoc-api": "^1.1.0",
     "gulp-util": "^3.0.7"
@@ -8,6 +8,14 @@
   "scripts": {
     "test": "mocha test.js"
   },
+  "keywords": [
+    "gulpplugin",
+    "jsdoc",
+    "jsdoc-json",
+    "json",
+    "docs",
+    "gulp",
+  ],
   "devDependencies": {
     "chai": "^3.5.0",
     "gulp": "github:gulpjs/gulp#4.0",

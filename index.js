@@ -55,8 +55,6 @@ var self = function(options){
 
 		callback();
 	},function(callback){
-		// console.log(fileList)
-		// console.log(jsdoc.explainSync({ files: fileList }))
 		var file = new File({
 			path:options.output,
 			contents: new Buffer(JSON.stringify(jsdoc.explainSync({ files: fileList }),null,2))
