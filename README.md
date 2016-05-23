@@ -26,4 +26,4 @@ return gulp.src('test/*.js') // get all .js files with jsdoc comments
 
 ## Special thanks
 
-[@75lb](https://github.com/75lb) for made [https://github.com/jsdoc2md/jsdoc-api](jsdoc-api)
+[@75lb](https://github.com/75lb) for made [jsdoc-api](https://github.com/jsdoc2md/jsdoc-api)
